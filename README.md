@@ -1,5 +1,5 @@
 # demo
 tutorial
 first repo 
-<\br>
-author Nikhil dagar
+<br>
+author Nikhil Dagar
